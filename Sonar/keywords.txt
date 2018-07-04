@@ -1,0 +1,25 @@
+###############################################
+# Syntax Coloring Map For Sonar Library
+###############################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Sonar	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+setAngle	KEYWORD2
+getDistance	KEYWORD2
+lookLeft	KEYWORD2
+lookRight	KEYWORD2
+checkServo	KEYWORD2
+lookSweep	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
